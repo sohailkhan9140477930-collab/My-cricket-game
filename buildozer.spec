@@ -1,6 +1,6 @@
 [app]
 title = runner
-package.name = runner game
+package.name = runnergame
 package.domain = org.test
 source.dir = .
 source.include_exts = py
